@@ -1,4 +1,4 @@
-let baseURL = "https://api-reading.istad.co/api/v1"
+let baseURL = "https://www.istad.co/api/v1"
 let headers = {
     "Authorization": "NONO",
     "Content-Type": "Application/json"
